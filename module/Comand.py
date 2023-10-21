@@ -137,7 +137,9 @@ def startComand():
                         '\n\t-> elimina la configurazione della porta indicata'\
                         '\n\t   ( assicurarsi prima che non sia attivo l\'ascolto su di essa!!\n'\
                         '\n>> start:\n'\
+                        '\n\t   avvia l\'ascolto sulla porta selezionata!!\n'\
                         '\n>> stop:\n'\
+                        '\n\t   termina l\'ascolto sulla porta\n'\
                         '\n>> exit:\n'
                         '\n\t-> chiuderà il programma'\
                         '\n\t   ( assicurarsi prima che non ci siano porte aperte con l\'ascolto attivo!!\n'\
