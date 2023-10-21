@@ -104,6 +104,7 @@ module.Logo.IconLogo.copyright()
 module.Logo.IconLogo.logo()
 
 ck_exit = False
+
 def startComand():
     try:
         if not ck_exit:
