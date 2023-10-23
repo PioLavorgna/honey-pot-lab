@@ -32,6 +32,6 @@ A group of enthusiasts determined to delve into the depths of computer science, 
 
 👩‍💻 [![Linkedin: Antonietta_Riccardi](https://img.shields.io/badge/-Antonietta_Riccardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonietta-riccardi-115167211/)](https://www.linkedin.com/in/antonietta-riccardi-115167211/)
 
-👨‍💻[![Linkedin: Adriano_Zoratti](https://img.shields.io/badge/-Adriano_Zoratti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-zoratti-a37a90140/)](https://www.linkedin.com/in/adriano-zoratti-a37a90140/)
+👨‍💻 [![Linkedin: Adriano_Zoratti](https://img.shields.io/badge/-Adriano_Zoratti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-zoratti-a37a90140/)](https://www.linkedin.com/in/adriano-zoratti-a37a90140/)
 
 ## 🎉 Thank you very much 🎓 [![Linkedin: AccademyRapido](https://img.shields.io/badge/-Accademy_Rapido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/academyrapido/)](https://www.linkedin.com/company/academyrapido/)
